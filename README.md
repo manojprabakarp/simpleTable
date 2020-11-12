@@ -1,2 +1,2 @@
 # simpleTable
-A simple table with filter and UT coverages
+A simple reactJS table with filter and UT coverages
